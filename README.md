@@ -27,7 +27,7 @@ To use this landing page template, follow these simple steps:
 Clone this repository:
 
 Copy code
-git clone https://github.com/Priyanshii573/bootstrap-landing-page.git
+git clone https://github.com/Priyanshii573/Landing-Page
 
 
 How to Customize
